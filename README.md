@@ -1,1 +1,1 @@
-# Fake-news-NLP
+# Fake news classification with Natural Language Processing
