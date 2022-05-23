@@ -6,16 +6,19 @@ Fake news has become one of the biggest problems of our age. It has serious impa
 ## Approach
 * Data collection
 * Text pre-processsing
+
+![Screenshot (433)](https://user-images.githubusercontent.com/93145713/169763440-4c0252ba-cca1-4c5c-a5e0-14a4eede133d.png)
+
 * Model Building 
 * Model Evaluation
 
-## Data
-This data set is all about Real or Fake News or Text dataset.
-Here are only 4 columns.
-* Number
-* Title
-* Text
-* Label
+## Developed a Multi nomial naive bayes algorithm to classify real and fake news
+
+## Model Evaluation
+
+              CONFUSION MATRIX
+![download (1)](https://user-images.githubusercontent.com/93145713/169764382-2ea462df-6910-44da-becd-ca98f812f001.png)
 
 
-![image](https://user-images.githubusercontent.com/93145713/169755620-3fb5c28d-0732-41d6-940a-9fab2268a0bb.png)
+                  CLASSIFICATION REPORT
+![image](https://user-images.githubusercontent.com/93145713/169764059-5ca69157-ab6e-4542-9956-4e70a4c97c4c.png)
